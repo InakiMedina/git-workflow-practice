@@ -22,5 +22,8 @@ https://github.com/InakiMedina/git-workflow-practice/pull/4
 
 note: this pr was never accepted, since the main had reverted to a wrong commit and both branches couldn't be merged. To fix this, i reseted the feature branch to the correct commit and the reseted main to the feature branch
 
-
+fifth PR
+feature/add-style -> main 
+https://github.com/InakiMedina/git-workflow-practice/pull/5
+![alt text](image-3.png)
 
