@@ -7,7 +7,6 @@ Brief description of changes
 ## Type
 
 - [x] New feature
-- [ ] Documentation changes
 - [ ] Bug fix
 - [ ] Documentation
 - [ ] Style
