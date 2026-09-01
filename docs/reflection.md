@@ -27,3 +27,13 @@ feature/add-style -> main
 https://github.com/InakiMedina/git-workflow-practice/pull/5
 ![alt text](image-3.png)
 
+What challenges did you face?
+The revert pr thing, was challenging
+
+What Git commands did you find most useful?
+rebase was really cool
+
+How will you apply this workflow in the team project?
+better commit messages
+
+
